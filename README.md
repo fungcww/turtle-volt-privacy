@@ -49,7 +49,7 @@
     </style>
 </head>
 <body>
-    <h1>Privacy Policy for Tutle</h1>
+    <h1>Privacy Policy for Turtle volt</h1>
     
     <p><strong>Last updated:</strong> Aug 2025</p>
 
