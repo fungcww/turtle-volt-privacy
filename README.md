@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - Tutle</title>
+    <title>Privacy Policy - Turtle volt</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
@@ -51,10 +51,10 @@
 <body>
     <h1>Privacy Policy for Tutle</h1>
     
-    <p><strong>Last updated:</strong> January 2025</p>
+    <p><strong>Last updated:</strong> Aug 2025</p>
 
     <h2>Introduction</h2>
-    <p>Tutle ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our photo vault application.</p>
+    <p>Turtle volt ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your information when you use our photo vault application.</p>
 
     <div class="highlight">
         <h2>Information We Collect</h2>
@@ -107,7 +107,7 @@
     <p>Since we don't collect any personal data, there is no personal information to access, modify, or delete. Your data remains entirely under your control on your device.</p>
 
     <div class="footer">
-        <p><em>This privacy policy is effective as of January 2025 and will remain in effect except with respect to any changes in its provisions in the future.</em></p>
+        <p><em>This privacy policy is effective as of August 2025 and will remain in effect except with respect to any changes in its provisions in the future.</em></p>
     </div>
 </body>
 </html> 
