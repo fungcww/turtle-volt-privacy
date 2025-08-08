@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -101,7 +100,7 @@
     <div class="contact">
         <h2>Contact Us</h2>
         <p>If you have any questions about this Privacy Policy, please contact us at:</p>
-        <p><strong>Email:</strong> <a href="mailto:privacy@tutle.app">privacy@tutle.app</a></p>
+        <p><strong>Email:</strong> <a href="mailto:smartappdev.software@gmail.com">smartappdev.software@gmail.com</a></p>
     </div>
 
     <h2>Your Rights</h2>
